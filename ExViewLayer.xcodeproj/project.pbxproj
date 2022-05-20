@@ -13,6 +13,7 @@
 		C6F5F50928378F350052A576 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6F5F50728378F350052A576 /* Main.storyboard */; };
 		C6F5F50B28378F370052A576 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6F5F50A28378F370052A576 /* Assets.xcassets */; };
 		C6F5F50E28378F370052A576 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6F5F50C28378F370052A576 /* LaunchScreen.storyboard */; };
+		C6F5F51628378FAB0052A576 /* PassThroughView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F5F51528378FAB0052A576 /* PassThroughView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C6F5F50A28378F370052A576 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C6F5F50D28378F370052A576 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6F5F50F28378F370052A576 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6F5F51528378FAB0052A576 /* PassThroughView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassThroughView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C6F5F50128378F350052A576 /* AppDelegate.swift */,
 				C6F5F50328378F350052A576 /* SceneDelegate.swift */,
 				C6F5F50528378F350052A576 /* ViewController.swift */,
+				C6F5F51528378FAB0052A576 /* PassThroughView.swift */,
 				C6F5F50728378F350052A576 /* Main.storyboard */,
 				C6F5F50A28378F370052A576 /* Assets.xcassets */,
 				C6F5F50C28378F370052A576 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				C6F5F50628378F350052A576 /* ViewController.swift in Sources */,
 				C6F5F50228378F350052A576 /* AppDelegate.swift in Sources */,
 				C6F5F50428378F350052A576 /* SceneDelegate.swift in Sources */,
+				C6F5F51628378FAB0052A576 /* PassThroughView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
